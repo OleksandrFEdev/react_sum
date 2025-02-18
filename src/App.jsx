@@ -12,6 +12,6 @@ export const App = () => (
 
     <Sum a={0} b={5} />
 
-    <Sum a={0} b={5} />
+    <Sum a={0} b={0} />
   </>
 );
